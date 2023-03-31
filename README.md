@@ -87,11 +87,11 @@ Welcome to my Operating Systems (SO) repository! This project is a collection of
 
 Key features:
 
-🧵 Threads: Demonstrating the use and management of threads in Linux, showcasing how to create, synchronize, and work with multithreading in C.
-🐳 Docker containers: Exploring containerization with Docker, creating and managing containers in a Linux environment.
-🔌 Sockets: Implementing network communication using sockets, building client-server applications and understanding the fundamentals of network programming in C.
-🐚 Custom Linux Shell: A fully-functional Linux shell created from scratch in C, providing a solid understanding of Linux system calls, process management, and shell scripting.
-📚 Learning Resource: The repository serves as a valuable learning resource for those interested in exploring Linux-based projects and understanding the underlying principles of operating systems.
+- 🧵 Threads: Demonstrating the use and management of threads in Linux, showcasing how to create, synchronize, and work with multithreading in C.
+- 🐳 Docker containers: Exploring containerization with Docker, creating and managing containers in a Linux environment.
+- 🔌 Sockets: Implementing network communication using sockets, building client-server applications and understanding the fundamentals of network programming in C.
+- 🐚 Custom Linux Shell: A fully-functional Linux shell created from scratch in C, providing a solid understanding of Linux system calls, process management, and shell scripting.
+- 📚 Learning Resource: The repository serves as a valuable learning resource for those interested in exploring Linux-based projects and understanding the underlying principles of operating systems.
 Feel free to explore the repository and learn from my Linux adventures. If you have any questions, suggestions, or feedback, don't hesitate to reach out or open an issue. Happy coding and exploring! 🚀
 
 
