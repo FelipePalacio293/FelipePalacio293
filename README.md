@@ -58,4 +58,23 @@ Welcome to the Unity-Role-Game repository! This project is a captivating role-pl
 
 Feel free to explore the repository and try out the game for yourself. If you have any questions, suggestions, or feedback, don't hesitate to reach out or open an issue. Enjoy the adventure! 🚀
 
+### Online Judge (UVa) Solutions: A Collection of Problem-Solving Practice
+
+Repository: [UVa-Solutions](https://github.com/FelipePalacio293/UVA-problems-Solutions)
+
+**Description:**
+
+Welcome to my UVa Solutions repository! This project is a compilation of my solutions to various problems from the Online Judge (UVa) platform. The primary objective of this repository is to practice and improve my problem-solving skills, as well as to serve as a reference for others tackling similar challenges.
+
+Please note that the coding style in this repository might not reflect my usual coding practices, as the primary focus here is on quickly and efficiently solving the problems at hand. Nonetheless, the solutions provided can be valuable for learning different approaches to tackling a diverse range of programming challenges.
+
+**Key features:**
+
+- 🧩 Diverse problem set: A collection of solutions to various problems, covering a wide range of topics and difficulty levels.
+- 📚 Learning resource: Can be used as a reference for others attempting to solve similar problems or looking for alternative approaches.
+- 💡 Problem-solving practice: An ongoing project for honing my problem-solving skills and learning new techniques.
+- 🚀 Efficient solutions: The focus of this repository is on quickly and effectively solving the problems, rather than adhering to a specific coding style.
+
+Feel free to browse through the solutions and use them as a reference or inspiration for your own problem-solving journey. If you have any questions or suggestions, don't hesitate to reach out or open an issue. Happy problem-solving! 🚀
+
 ### 
