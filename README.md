@@ -81,11 +81,11 @@ Feel free to browse through the solutions and use them as a reference or inspira
 
 Repository: [SO-Repository](https://github.com/FelipePalacio293/SO) 
 
-Description:
+**Description:**
 
 Welcome to my Operating Systems (SO) repository! This project is a collection of various Linux-based assignments and projects that I've completed while diving into the world of Linux for the first time. The repository showcases my journey learning about and working with Linux, with all projects written entirely in C.
 
-Key features:
+**Key features:**
 
 - 🧵 Threads: Demonstrating the use and management of threads in Linux, showcasing how to create, synchronize, and work with multithreading in C.
 - 🐳 Docker containers: Exploring containerization with Docker, creating and managing containers in a Linux environment.
