@@ -20,7 +20,7 @@ Happy coding! 🚀
 
 ## Projects
 
-#### Georeferencial-DataBase: Tracking Ancestral Lineage with Oracle and Python
+### Georeferencial-DataBase: Tracking Ancestral Lineage with Oracle and Python
 
 Repository: [Georeferencial-DataBase](https://github.com/FelipePalacio293/Georeferencial-DataBase)
 
@@ -39,7 +39,7 @@ Python scripts for georeferencing individuals, integrating geospatial data into 
 Visualization of lineage patterns and relationships within a geographical context
 Feel free to explore the repository, and if you have any questions or suggestions, don't hesitate to reach out or open an issue.
 
-#### Unity-Role-Game: An Engaging Labyrinth Escape Adventure
+### Unity-Role-Game: An Engaging Labyrinth Escape Adventure
 
 Repository: [Unity-Role-Game](https://github.com/FelipePalacio293/Unity-Role-Game)
 
