@@ -77,4 +77,22 @@ Please note that the coding style in this repository might not reflect my usual 
 
 Feel free to browse through the solutions and use them as a reference or inspiration for your own problem-solving journey. If you have any questions or suggestions, don't hesitate to reach out or open an issue. Happy problem-solving! 🚀
 
+### Operating Systems (SO) Adventure: Exploring Linux with C Projects
+
+Repository: [SO-Repository](https://github.com/FelipePalacio293/SO) 
+
+Description:
+
+Welcome to my Operating Systems (SO) repository! This project is a collection of various Linux-based assignments and projects that I've completed while diving into the world of Linux for the first time. The repository showcases my journey learning about and working with Linux, with all projects written entirely in C.
+
+Key features:
+
+🧵 Threads: Demonstrating the use and management of threads in Linux, showcasing how to create, synchronize, and work with multithreading in C.
+🐳 Docker containers: Exploring containerization with Docker, creating and managing containers in a Linux environment.
+🔌 Sockets: Implementing network communication using sockets, building client-server applications and understanding the fundamentals of network programming in C.
+🐚 Custom Linux Shell: A fully-functional Linux shell created from scratch in C, providing a solid understanding of Linux system calls, process management, and shell scripting.
+📚 Learning Resource: The repository serves as a valuable learning resource for those interested in exploring Linux-based projects and understanding the underlying principles of operating systems.
+Feel free to explore the repository and learn from my Linux adventures. If you have any questions, suggestions, or feedback, don't hesitate to reach out or open an issue. Happy coding and exploring! 🚀
+
+
 ### 
