@@ -1,4 +1,4 @@
-Hello there! 👋 I'm Felipe Palacio, a skilled software developer with experience in a variety of programming languages and frameworks. Currently, I'm working at Farmacia Drogueria San Jorge, a Colombian medium-sized company, where I've been contributing for over a year. I'm passionate about using technology to solve complex problems and make a positive impact.
+Hello there! 👋 I'm Felipe Palacio.
 
 Here are some key areas where I excel:
 
